@@ -14,7 +14,7 @@ This project aims to develop an advanced system that performs real-time object d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/object-detection-speed-estimation.git
+   git clone https://github.com/Rohithps98/Speed-Estimation-using-Lucas-Kanade.git
 
 ## Install the required dependencies
 
